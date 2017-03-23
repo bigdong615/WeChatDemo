@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.wechatdemo.yandon.wechatdemo.MainActivity">
+    <item
+        android:id="@+id/group_talk"
+        android:orderInCategory="100"
+        android:title="@string/group_talk"
+        tools:onClick="group_talk" />
+
+    <item
+        android:id="@+id/receive_pay"
+        android:orderInCategory="103"
+        android:title="@string/receive_pay"
+         />
+    <item
+        android:id="@+id/switcher"
+        android:orderInCategory="105"
+        android:title="@string/switcher" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="106"
+        android:title="@string/action_settings"
+
+        />
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search_black_18dp"
+        android:title="@string/action_search"
+        app:showAsAction="ifRoom" />
+
+</menu>

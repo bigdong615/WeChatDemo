@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_6178b99ea7a6f60d2206ee8571104b1652706714\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_86598e394719fe10ec154148a7bc4a8915ebbb78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7181c50d4e1411e35af4d650d77741c5efe69757">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3d3df0e50d30a929dbdede6adf7fd899fec3648f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_a7b2e0b26585ccc7288932e6a9a8d18d49ae7974\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_ced26096c997205bb0dfda9d8c2b45098312dc9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="60382b5fd887398dd769b1c7fc589a3a801e9f04">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2f335fd08b68f5a01dc3d5308c5b1ad76a15a7ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_8beb4da375693ccbb52a605f301654f233ec1a5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_d4740a96445843c55a5bf38baba40b297cf9c3c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_c79f42ded82e8f7f5573903ae2592919b6a191f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_cd3ab578bc480d9ac43998382c95ef1afd031ce8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_b63f068dbf646db98cc55fa4277f9ee9ec2ff59f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_b99665049711028084c8737f4a993cc6a895f95e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_85b8e459ce3e7ca4bdad8f9deb4a2bd30f18ada9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.1_b32d3742965be5904c0ff5996a66845e35298f0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_1dfd2142f8278d307f22cd27a9d08f85f056e770\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_8dfeaa44017e9afdf5a023b40006b08fc0b95ebb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_a4ef4c9476215812fcc54bb2255c6ca8d23971c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_80b494f2e4172e989092d09161f628566d167697\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_b771168205bc164c0b91b2a2eebc1ff48ab3e0a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_48f973d1ec5855fac7748739898352aa841db98c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_6f552f2b13be5317a9eda1e057c8473434604215\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_aa2a7dec241a8d0ed143f4373f764095ffb3cd26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_5ae1c6e79bf3636da96180c668b40d168db0b436\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_78c7dbc45319e9bf5d26f9d95fce571b53ce1296\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_6f90207c3d1cd6e35aa0081c0c2a56a456710106\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_e77759d4d5b56d95fb7b7a055d50ad5c86c73b7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_4ffb9d07194c8ab03028baa6509154b93017a377\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_033ba45f284c2f5139362c7447c1a371239657c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_e826a853ebb5924d6e789bbfdc21955bb27fcd1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_4f07d1898d6a0722f5d0a64f38c1b967a876bcc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_6792a74e28454d7ee34d1f7716d43aece0375a94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_9932a9bfd05436b1da8fd3c5261e4d0aa37ad0cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_ef1e2cea157c6710fb5f369eaa7b0e79728e484f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_4b05dcd9622d8a5d634f75c6acbb0100639878a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_76665a21544d6ce9dd586ca660c5ead8a395bc99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_e316d962e697ffb45df8a0f4a59643a1f101d5d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_b02fec24b31e7f26ec79b0f556fa75e1f767779c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_71819d67a0482916304c264a3c685ef5975edaaf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_a8a08de64fc67c7ff560e215ea1bedd73f08cdbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_c9bc7557f56596c2e9fc9d9dbbb35c514039d1f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_1178de48ce42e82fb947a1933bc87c82a09dc33c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_74b689fe26dc8f8a0a8befe7c82abfc13ef83970\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_805d669e09b51b3adfc319500296faa1c7cb5668\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_2db61dd3df92c4f2d05d71270fd556477de3bfd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_535b68dbe8cb1892f61cbfe67f1312ecde990617\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_0766f6c7fcef9fb0215d03c4c3e61b6e140dfd6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_6b257bfb076c4c12ca3eeda6547be4ef539cccc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_e7b977299b3d36803edaa3c507f7b5b59c8b71f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_35b2a413bf97f3f98750a79783361c4a900b5d10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_a612f387e189c56b9c3e2d0e74b3d28b9511d9dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_f29baa856774f9073191f283574921db19dbc622\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_f264c33eeef331729e5086de9fd7c680552a2dfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_7b0c7f97c8ad313d6bab46bb2c34b4c9c251780d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_e8aea53af7977b115914f7c1adc3728d35cc2b0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.1_d9c9185c744ebc8aba9d5a9d1f5820034ce7d443\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_a1148d0945baa9e42a52bcf2dcc9b0709d4a8d7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_2f5e100b4f89e9637b4941bf448534c207ec7840\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_5a7764819490c68653293f76fb810f90a1e018a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_3008dd4aa69641b03eb620224e82a555ff071a34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_6ba18ddab465e60fc35aca4d4d161a3620481571\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_9cacdbf6f4eae94362db2af6d655bdfce35f493d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_7a9686de9adbaf5c59f3be6cbcb4b0b7ca15894b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_e66307c7a50e62d79bc6c3d7fc6e8b3771ec5b90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_5668305c943d8ab815ed794b9df2e8d0c154a2c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_4c12afc82ec964b7c6c963326e1250fc72891e5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\yandon\AndroidStudioProjects\WeChatDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_109f9179f975c2650d620e298a97d78eb8e08d77\classes.dex" />
+    </item>
+
+</items>

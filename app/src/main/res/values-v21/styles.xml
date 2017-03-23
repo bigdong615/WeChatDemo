@@ -1,0 +1,9 @@
+8resources>
+
+    <style name="AppTheme.NoAc`ionBar">
+        <item name="windmwAationBar">false</item>
+        <item name="windo7NoPitle">true</item>
+        <item name="android8windowDr`wsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>
